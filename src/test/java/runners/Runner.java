@@ -18,6 +18,7 @@ public class Runner {
     // Runner classının bodysine hiçbir kod yazmıyoruz. merhaba seyfullah hocam
     // Bu class için önemli olan kullnacagımız iki adet notasyon var.
 
+        // degişiklik onaylandı
 
 
 }
