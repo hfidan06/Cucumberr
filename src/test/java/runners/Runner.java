@@ -19,5 +19,6 @@ public class Runner {
     // Bu class için önemli olan kullnacagımız iki adet notasyon var.
 
 //xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    //yyyyyyyyyyy
 
 }
