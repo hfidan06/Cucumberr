@@ -18,6 +18,6 @@ public class Runner {
     // Runner classının bodysine hiçbir kod yazmıyoruz.
     // Bu class için önemli olan kullnacagımız iki adet notasyon var.
 
-
+//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 }
