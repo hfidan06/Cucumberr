@@ -15,7 +15,7 @@ import org.junit.runner.RunWith;
 
 public class Runner {
 
-    // Runner classının bodysine hiçbir kod yazmıyoruz.
+    // Runner classının bodysine hiçbir kod yazmıyoruz. merhaba seyfullah hocam
     // Bu class için önemli olan kullnacagımız iki adet notasyon var.
 
 
